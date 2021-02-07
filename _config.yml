@@ -38,8 +38,12 @@ navigation_header:
   url: /
 - title: About
   url: /about/
-- title: Blog
-  url: /blog/
+- title: Research
+  url: /research/
+- title: Code
+  url: /code/
+- title: Resume
+  url: /resume/
 
 # Footer nav
 navigation_footer:
