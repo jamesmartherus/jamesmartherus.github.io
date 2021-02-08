@@ -13,9 +13,7 @@ The American National Election Studies are one of the most important sources of 
 
 <img src="/man/figures/debates.png" align="left" width=90 style="float:left; padding-right:10px" />[debates: Tidy presidential debate transcripts](https://github.com/jamesmartherus/debates)
 
-Presidential debates are an important opportunity for candidates to share their platforms. `debates` provides easy access to debate transcripts from Presidential, Vice Presidential, and primary candidate debates. The current version includes Presidential and Vice-Presidential debate transcripts starting in 1960, and for most debates from the 2012, 2016, and 2020 primary elections. `debates` includes one dataset, `debate_transcripts`, as a compact rda object. Once the package is installed and loaded, the dataset can be loaded using the `data()` function.
-
-`debate_transcripts` includes speaker-level and debate-level data. Each row in `debate_transcripts` represents one statement. Along with the text of the statement, each row includes the speaker's name and an indicator variable that identifies whether or not the speaker is a candidate (as opposed to being a moderator, an announcer, or someone asking a question). Each row also indicates the date, location, and type of debate. To suggest additional fields, please open an issue.
+`debates` provides easy access to debate transcripts from Presidential, Vice Presidential, and primary candidate debates. The current version includes Presidential and Vice-Presidential debate transcripts starting in 1960, and for most debates from the 2012, 2016, and 2020 primary elections. `debates` includes one dataset, `debate_transcripts`, as a compact rda object. Once the package is installed and loaded, the dataset can be loaded using the `data()` function. `debate_transcripts` includes speaker-level and debate-level data. Each row in `debate_transcripts` represents one statement. Along with the text of the statement, each row includes the speaker's name and an indicator variable that identifies whether or not the speaker is a candidate (as opposed to being a moderator, an announcer, or someone asking a question). Each row also indicates the date, location, and type of debate. To suggest additional fields, please open an issue.
 
 <img src="/man/figures/drumr.png" align="left" width=90 style="float:left; padding-right:10px" />[drumr: Turn R into a drum machine](https://github.com/jamesmartherus/drumr)
 
@@ -25,9 +23,9 @@ Presidential debates are an important opportunity for candidates to share their 
 
 `nhldata` contains three datasets provided by [Corsica Hockey](https://www.corsicahockey.com/) and [Natural Stat Trick](https://www.naturalstattrick.com/):
 
-* skaters: For each season from 2007-2008 to 2018-2019, skaters statistics for all NHL players with at least 50 minutes of TOI (Time on Ice).
-* goalies: For each season from 2007-2008 to 2018-2019, goalie statistics for all NHL goalies with at least 200 minutes of TOI (Time on Ice).
-* teams: For each season from 2007-2008 to 2018-2019, team statistics for all NHL teams.
+* `skaters`: For each season from 2007-2008 to 2018-2019, skaters statistics for all NHL players with at least 50 minutes of TOI (Time on Ice).
+* `goalies`: For each season from 2007-2008 to 2018-2019, goalie statistics for all NHL goalies with at least 200 minutes of TOI (Time on Ice).
+* `teams`: For each season from 2007-2008 to 2018-2019, team statistics for all NHL teams.
 
 <img src="/man/figures/shotplot.png" align="left" width=90 style="float:left; padding-right:10px" />[shotplot: Scrape and plot NHL shot location data](https://github.com/jamesmartherus/shotplot)
 
