@@ -41,7 +41,7 @@ navigation_header:
 - title: Code
   url: /code/
 - title: Resume
-  url: "https://www.dropbox.com/s/dxso1cevv3je1b3/James_Martherus_Resume.pdf?dl=0"
+  url: /resume/
 
 # Footer nav
 navigation_footer:
