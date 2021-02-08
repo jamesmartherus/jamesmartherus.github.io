@@ -5,6 +5,8 @@ feature_text: |
   ## Research
 ---
 
+## Articles
+
 [Party animals? Extreme partisan polarization and dehumanization.](https://link.springer.com/article/10.1007/s11109-019-09559-4) *Political Behavior*. (with Alexander Theodoridis, Paul Piff, and Andres Martinez)
 Dehumanization is an extreme form of prejudice that is often used to justify discrimination and even violence. Using three large-N novel surveys and various measures of partisan dehumanization, my coauthors and I show that a majority of partisans are willing to apply dehumanizing metaphors to outparty members.
 
