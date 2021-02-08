@@ -7,7 +7,7 @@ feature_text: |
 
 In my spare time, I enjoy building R packages. Some of them are useful, some of them... not so much. 
 
-<img src="/man/figures/anesr.png" align="left" width=90 />[anesr: Easy access to ANES data in R](https://github.com/jamesmartherus/anesr)
+<img src="/man/figures/anesr.png" align="left" width=90 style="float:left; padding-right:10px" />[anesr: Easy access to ANES data in R](https://github.com/jamesmartherus/anesr)
 
 The American National Election Studies are one of the most important sources of data for political scientists. `anesr` provides easy access to ANES data for R users. `anesr` includes tidy versions of all ANES pilot and time series studies as compact, rda objects. Once the package is installed and loaded, any dataset can be accessed using the `data()` function. `anesr` also includes documentation for some studies in tidy format. Documentation files include descriptions, coding, and marginals or summary statistics for all variables in the dataset.
 
