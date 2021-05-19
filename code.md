@@ -1,11 +1,11 @@
 ---
-title: 
-feature_image: "https://picsum.photos/1300/400?image=989"
+title: "null"
+feature_image: https://picsum.photos/1300/400?image=989
 feature_text: |
   ## Code
 ---
 
-In my spare time, I enjoy building R packages. Some of them are useful, some of them... not so much. 
+In my spare time, I enjoy building R packages. Some of them are useful, some of them are more fun than practical. 
 
 <img src="/man/figures/anesr.png" align="left" width=90 style="float:left; padding-right:10px" />[anesr: Easy access to ANES data in R](https://github.com/jamesmartherus/anesr)
 
