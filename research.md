@@ -18,9 +18,11 @@ Pundits and scholars have decried the use of incendiary and dehumanizing rhetori
 * [Replication Data](https://github.com/jamesmartherus/Dehumanizing_Rhetoric_Replication)
 
 
-**Unified Republicans, Fractious Democrats? Social norms in American political parties.** *Under Review.*
+[Unified Republicans, Fractious Democrats? Social norms in American political parties.](https://www.dropbox.com/s/wylslto7tpqtr51/Partisan_Social_Norms.pdf?dl=0) *Under Review.*
 The Republican party is said to be a vehicle for an ideological movement and the Democratic party is said to be a fractious set of diverse group interests, but recent political events seem to contradict these definitions. I help explain this discrepancy using psychological theories of social group norms. Using in-depth interviews and a large, nationally representative survey, I show that Democrats and Republicans adhere to distinct sets of social norms.
-
 
 **Party apostates: The consequences of breaking partisan norms.** *Working Paper.* 
 Partisan social norms describe and prescribe group behavior. Are candidates who break these social norms punished electorally? Using a conjoint experiment, I show that many partisans  punish candidates who break partisan norms. In fact, some partisans seem to be willing to risk losing a general election by supporting unqualified primary candidates over candidates who deviate from party norms.
+
+[Use of Partisan Social Norms in Presidential Debates.](https://www.dropbox.com/s/0vz57uyxo0ef6ao/Use_of_Partisan_Social_Norms_in_Presidential_Debates.pdf?dl=0) *Working Paper.* 
+
